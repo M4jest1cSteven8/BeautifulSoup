@@ -10,7 +10,9 @@ y = int(x)                      # 輸入為str型態，轉為int
 file = open("Salary.txt", "w")  # 創造並開啟Salary.txt，參數w為覆寫 Salary.txt內容
 
 if y > 0: 
+
     print("抓取Salary " + x + "頁的資料，從最新到舊排序\n")
+    
     
     for i in range(y):        
         response = requests.get(ptt)
