@@ -31,6 +31,6 @@ Capture_Yahoo_News execution :
 ------
 Download "Capture_Yahoo_News.rar" from the repository
 
-Extract "Capture_Yahoo_News.rar" -> "dist" folder -> Capture_PTT_Data.exe 
+Extract "Capture_Yahoo_News.rar" -> "dist" folder -> Capture_Yahoo_News.exe 
 
 Yahoo_News.txt will be generated under the same folder
